@@ -78,5 +78,3 @@ To ensure that all code submissions work seamlessly on cloud platforms like **Ka
 1.  **Python Version:** Use **Python 3.10** locally. This is the default version on Kaggle/Colab.
 2.  **Library Versions:** When installing libraries (Pandas, Scikit-Learn, etc.), ensure you are using the **latest versions compatible with Python 3.10**.
 3.  **Why?** If you use features from Python 3.12 that don't exist in 3.10, your code will fail during the evaluation phase.
-## Contributors ✨
-- Paarth Arora (the-chocalte-icecream) - First contribution!
