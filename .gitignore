@@ -1,1 +1,29 @@
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files (keep tracked ones, ignore generated)
+*.log
